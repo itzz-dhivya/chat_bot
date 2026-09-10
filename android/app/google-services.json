@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "204836197660",
+    "project_id": "chatbot-3794e",
+    "storage_bucket": "chatbot-3794e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204836197660:android:11af819bd43918225196d9",
+        "android_client_info": {
+          "package_name": "com.chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoKpW1ecFjBIZxjF6BXzyxFAyeEdlIj-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204836197660:android:f52a79016ccfdece5196d9",
+        "android_client_info": {
+          "package_name": "com.chatbot.chat_bot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoKpW1ecFjBIZxjF6BXzyxFAyeEdlIj-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
